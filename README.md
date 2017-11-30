@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/dashify-unicode.png)](https://nodei.co/npm/dashify-unicode/)
 
-a Dashifyer for JavaScript that Accepts Unicode Characters ( not just ASCII chars )
+a Dashifier for JavaScript that Accepts Unicode Characters ( not just ASCII chars )
 
 It is similar to [dashify](https://npmjs.com/dashify) package, but
 it can also convert other characters in addition to ASCII chars.

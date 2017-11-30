@@ -1,7 +1,7 @@
 {
   "name": "dashify-unicode",
   "version": "1.0.0",
-  "description": "a Dashifyer for JavaScript that Accepts Unicode Characters ( not just ASCII chars )",
+  "description": "a Dashifier for JavaScript that Accepts Unicode Characters ( not just ASCII chars )",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
