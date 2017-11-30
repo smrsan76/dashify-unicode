@@ -1,0 +1,25 @@
+{
+  "name": "dashify-unicode",
+  "version": "1.0.0",
+  "description": "a Dashifyer for JavaScript that Accepts Unicode Characters ( not just ASCII chars )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smrsan76/dashify-unicode.git"
+  },
+  "keywords": [
+    "dashify",
+    "dashifier",
+    "unicode",
+    "international"
+  ],
+  "author": "SMRSAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smrsan76/dashify-unicode/issues"
+  },
+  "homepage": "https://github.com/smrsan76/dashify-unicode#readme"
+}
