@@ -1,6 +1,6 @@
 {
   "name": "dashify-unicode",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a Dashifier for JavaScript that Accepts Unicode Characters ( not just ASCII chars )",
   "main": "index.js",
   "scripts": {
