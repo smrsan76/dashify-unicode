@@ -1,7 +1,7 @@
 /*!
  * dashify-unicode <https://github.com/smrsan76/dashify-unicode>
  *
- * Copyright (c) 2017 Seyyed Mohammad Reza Seyyed Abolhasani Naddaf.
+ * Copyright (c) 2017 smrsan76.
  * Licensed under the MIT license.
  */
 
